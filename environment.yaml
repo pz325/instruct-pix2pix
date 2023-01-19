@@ -8,7 +8,6 @@ channels:
 dependencies:
   - python
   - pip
-  - cudatoolkit
   - pytorch
   - torchvision
   - numpy=1.19.2
